@@ -1,5 +1,5 @@
 # [Any] Ninja Leap
-#### Current version: 1.0.2  
+#### Current Version: 1.0.2  
 
 ## Description:
 Allows players to leap through the air with a key-bindable command.
